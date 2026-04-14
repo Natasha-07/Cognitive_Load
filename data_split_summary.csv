@@ -1,0 +1,3 @@
+Dataset,Total_Size,Train_Val_Size,Final_Test_Size
+real,500,400,100
+synthetic,10000,8000,2000
